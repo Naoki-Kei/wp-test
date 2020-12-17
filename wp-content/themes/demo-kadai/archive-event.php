@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: カスタムページ
+Template Name: カスタムページaa
 */
 ?>
 
